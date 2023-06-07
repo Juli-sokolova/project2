@@ -1,4 +1,4 @@
-
+# работа по алгоритмам
 #1
 print("4ast 1")
 k=int(input("vvedite 4islo: "))
